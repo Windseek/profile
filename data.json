@@ -1,0 +1,116 @@
+{
+  "tecProfile":{
+      "id": 1,
+      "memberId": 3,
+      "name": "张三二",
+      "sex": "女",
+      "nation": "汉",
+      "politicalStatus": "党员",
+      "maritalStatus": "未婚",
+      "birthYearMonth": "1990-06",
+      "nativePlace": "上海",
+      "registeredResidence": "虹口体育场",
+      "currentResidence": "现居住地",
+      "educationalBackground": "初中及以下",
+      "major": "编程",
+      "firstStartWorkYearMonth": "2004-06",
+      "contactAddress": "长宁区",
+      "contactPostcode": "123456",
+      "idCardNumber": "123",
+      "mobile": "15821700652",
+      "emergencyContactName": "紧急联系人",
+      "emergencyContactMobile": "15236987",
+      "dataCreatedByName": null,
+      "dataCreateTime": 1497494383000,
+      "dataUpdatedByName": "millychen",
+      "dataUpdateTime": 1498037143000,
+      "dataDiscardStatus": 0
+    },
+  "technicalList":[{
+        "id": 1,
+        "memberId": 3,
+        "titleName": "打印",
+        "titlePassTime": 1497888000000,
+        "dataCreatedByName": "millychen",
+        "dataCreateTime": 1498111026000,
+        "dataUpdatedByName": null,
+        "dataUpdateTime": null,
+        "dataDiscardStatus": 0
+      },
+      {
+        "id": 2,
+        "memberId": 3,
+        "titleName": "打字机在儿童节",
+        "titlePassTime": 1496073600000,
+        "dataCreatedByName": "millychen",
+        "dataCreateTime": 1498113853000,
+        "dataUpdatedByName": null,
+        "dataUpdateTime": null,
+        "dataDiscardStatus": 0
+      }
+    ],
+  "experienceList":[
+      {
+        "id": 1,
+        "memberId": 3,
+        "beginWorkYearMonth": "2006-02",
+        "endWorkYearMonth": "2012-12",
+        "companyName": "易贸供应链",
+        "position": "码农",
+        "dataCreatedByName": "11",
+        "dataCreateTime": null,
+        "dataUpdatedByName": null,
+        "dataUpdateTime": null,
+        "dataDiscardStatus": 0
+      },
+      {
+        "id": 72,
+        "memberId": 3,
+        "beginWorkYearMonth": "2017-01",
+        "endWorkYearMonth": "2017-06",
+        "companyName": "哇哈哈",
+        "position": "1111",
+        "dataCreatedByName": "millychen",
+        "dataCreateTime": 1498110031000,
+        "dataUpdatedByName": null,
+        "dataUpdateTime": null,
+        "dataDiscardStatus": 0
+      }
+    ],
+  "certificateList":[
+      {
+        "id": 1,
+        "memberId": 3,
+        "applyNo": "1",
+        "applyTime": 1496311159000,
+        "applyStatus": "管理员上传",
+        "applyStatusRemark": "管理员上传",
+        "certificateName": "闭卷考试",
+        "certificatePassTime": 1498125603000,
+        "certificateRemark": "备注",
+        "certificateAttachment": null,
+        "dataCreatedByName": null,
+        "dataCreateTime": null,
+        "dataUpdatedByName": null,
+        "dataUpdateTime": null,
+        "dataDiscardStatus": 0
+      },
+      {
+        "id": 2,
+        "memberId": 3,
+        "applyNo": "1",
+        "applyTime": 1496311159000,
+        "applyStatus": "通过",
+        "applyStatusRemark": "通过",
+        "certificateName": "闭卷考试",
+        "certificatePassTime": 1498125603000,
+        "certificateRemark": "备注",
+        "certificateAttachment": "",
+        "dataCreatedByName": "",
+        "dataCreateTime": 1498126555000,
+        "dataUpdatedByName": "",
+        "dataUpdateTime": 1498126562000,
+        "dataDiscardStatus": 0
+      }
+    ]
+  }

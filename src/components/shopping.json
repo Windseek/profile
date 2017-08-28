@@ -1,0 +1,99 @@
+{
+  "data": {
+    "id": 1,
+    "memberId": 6,
+    "provinceName": "北京",
+    "cityName": "顺义区",
+    "districtName": "",
+    "receiveAddress": "yui",
+    "receiveName": "dsfv",
+    "receiveMobile": "5468765",
+    "dataCreatedByName": "杨龙飞",
+    "dataCreateTime": 1498822832000,
+    "dataUpdatedByName": "杨龙飞",
+    "dataUpdateTime": 1499064438000,
+    "dataDiscardStatus": null
+  },
+  "returnCode": 0,
+  "errMsg": null
+}
+
+{
+"data": {
+"list": [
+{
+"id": 2,
+"code": "A005",
+"name": "口罩A",
+"coin": 102,
+"unit": "付",
+"remark": "口罩备注",
+"usingStatus": "已启用",
+"dataCreatedByName": "millychen",
+"dataCreateTime": 1498038106000,
+"dataUpdatedByName": "millychen",
+"dataUpdateTime": 1498722862000,
+"dataDiscardStatus": 0
+},
+{
+"id": 4,
+"code": "A001",
+"name": "口罩C",
+"coin": 292,
+"unit": "付",
+"remark": "口罩备注",
+"usingStatus": "已启用",
+"dataCreatedByName": "millychen",
+"dataCreateTime": 1498038321000,
+"dataUpdatedByName": null,
+"dataUpdateTime": null,
+"dataDiscardStatus": 0
+},
+{
+"id": 5,
+"code": "100001",
+"name": "洗发水",
+"coin": 123,
+"unit": "瓶",
+"remark": "测试",
+"usingStatus": "已启用",
+"dataCreatedByName": "millychen",
+"dataCreateTime": 1498118905000,
+"dataUpdatedByName": null,
+"dataUpdateTime": null,
+"dataDiscardStatus": 0
+},
+{
+"id": 7,
+"code": "123",
+"name": "123",
+"coin": 1000,
+"unit": "13",
+"remark": "",
+"usingStatus": "已启用",
+"dataCreatedByName": "millychen",
+"dataCreateTime": 1498119789000,
+"dataUpdatedByName": "millychen",
+"dataUpdateTime": 1499147220000,
+"dataDiscardStatus": 0
+},
+{
+"id": 8,
+"code": "100001",
+"name": "洗发水1",
+"coin": 100,
+"unit": "100",
+"remark": "",
+"usingStatus": "已启用",
+"dataCreatedByName": "millychen",
+"dataCreateTime": 1498120042000,
+"dataUpdatedByName": "millychen",
+"dataUpdateTime": 1498125208000,
+"dataDiscardStatus": 0
+}
+],
+"coin": 50
+},
+"returnCode": 0,
+"errMsg": null
+}
